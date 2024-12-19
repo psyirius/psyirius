@@ -2,7 +2,7 @@
 
 It's me Psyirius (pronounced /sirius/)
 
-FYI: The activity graph in here doesn't tell you anything!
+Just go through it :P
 
 <!--
 **psyirius/psyirius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
